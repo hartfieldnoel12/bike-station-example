@@ -1,6 +1,6 @@
 
 
-name: bikeshare_streamlit
+name: bikeshare_streamlit_example
 channels:
   - conda-forge
   - defaults
@@ -273,4 +273,4 @@ dependencies:
       - watchdog==4.0.0
       - xyzservices==2024.4.0
       - zipp==3.18.2
-prefix: /opt/miniconda3/envs/bikeshare_streamlit
+prefix: /opt/miniconda3/envs/bikeshare_streamlit_example
